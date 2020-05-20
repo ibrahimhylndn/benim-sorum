@@ -1,3 +1,11 @@
+// NOT:
+// Hangi insanlarin hangi kitaplari okuduguyla ilgili bir proje yazin.
+// NOT:
+
+
+
+
+
 package proje;
 
 import java.util.Scanner;
